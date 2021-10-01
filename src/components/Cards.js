@@ -25,19 +25,19 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='images/India.png'
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
+              text='India is famous for many historical monuments and the architectural skill involved.'
               label='India'
               path='/services'
             />
             <CardItem
               src='images/Italy.png'
-              text='Experience Football on Top of the Himilayan Mountains'
+              text='The pristine coastlines of Italy are washed by the waters of five seas: The Mediterranean, Adriatic, Ionian, Tyrrhenian, and Ligurian.'
               label='Italy'
               path='/products'
             />
             <CardItem
               src='images/France.png'
-              text='Ride through the Sahara Desert on a guided camel tour'
+              text='Paris has been the most romantic destination in the world in the popular imagination for time immemorial.'
               label='France'
               path='/sign-up'
             />

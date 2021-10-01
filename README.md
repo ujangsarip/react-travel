@@ -1,10 +1,31 @@
-# Getting Started with Create React App
+# Landing Page with React.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Background
+A landing page is one of the most important page of a website. It's the page that faces potential clients the most. 
+Often overlooked, the page is a key tool for the Marketing team to derive business metrics.
 
-In the project directory, you can run:
+## Requirements
+
+- Node.js
+- Npm
+- Cmd or Git
+- Text Editor
+
+## How to running this project on your local 
+
+open your directory using git or cmd.
+
+```
+git clone https://github.com/horangi-ir/engineering-interview-webdev-ujangsarip.git
+cd engineering-interview-webdev-ujangsarip
+
+# Install node_modules
+npm install
+#Clean cache
+npm cache clean --force
+```
 
 ### `npm start`
 
