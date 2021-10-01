@@ -18,8 +18,8 @@ Often overlooked, the page is a key tool for the Marketing team to derive busine
 open your directory using git or cmd.
 
 ```
-git clone https://github.com/horangi-ir/engineering-interview-webdev-ujangsarip.git
-cd engineering-interview-webdev-ujangsarip
+git clone https://github.com/ujangsarip/react-travel.git
+cd react-travel
 
 # Install node_modules
 npm install
